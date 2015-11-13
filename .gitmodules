@@ -1,0 +1,3 @@
+[submodule "Kasse-server"]
+	path = Kasse-server
+	url = https://github.com/Ostmark/Kasse-server
